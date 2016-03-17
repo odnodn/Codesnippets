@@ -31,5 +31,18 @@
  - https://github.com/McNull/angular-form-gen
  - http://angular-form-gen.nullest.com/#!/demo
 - angular-dynamic-forms: https://github.com/danhunsaker/angular-dynamic-forms
+- easyFormGenerator !!
+ - https://github.com/MacKentoch/easyFormGenerator
+ - http://mackentoch.github.io/easyFormGenerator/
+- angularjs-dynamic-form : https://github.com/saymedia/angularjs-dynamic-form
 - __github search on angulkar forms__: https://github.com/search?o=desc&q=angular+form&ref=searchresults&s=stars&type=Repositories&utf8=%E2%9C%93
 - CSV FlatFile : http://flat-file.net/ / http://flat-file.net/help/index.html 
+- 
+graph c#: https://github.com/search?l=C%23&o=desc&q=graph&ref=searchresults&s=stars&type=Repositories&utf8=%E2%9C%93
+https://github.com/Microsoft/automatic-graph-layout
+https://github.com/Microsoft/vscode
+
+
+http://csvlint.io/
+http://csvlint.io/about
+https://github.com/theodi/csvlint.rb
