@@ -18,7 +18,7 @@
 - angular-formly: !! :+1:
   - http://docs.angular-formly.com/docs/learn-angular-formly
   - https://github.com/formly-js/angular-formly
-- angular-form-builder: !! :0:
+- angular-form-builder: !! :o:
  - https://github.com/kelp404/angular-form-builder 
  - http://kelp404.github.io/angular-form-builder/
 - angular-schema-form !!
