@@ -31,5 +31,5 @@
  - https://github.com/McNull/angular-form-gen
  - http://angular-form-gen.nullest.com/#!/demo
 - angular-dynamic-forms: https://github.com/danhunsaker/angular-dynamic-forms
-- __github search on angulkar forms: https://github.com/search?o=desc&q=angular+form&ref=searchresults&s=stars&type=Repositories&utf8=%E2%9C%93
+- __github search on angulkar forms__: https://github.com/search?o=desc&q=angular+form&ref=searchresults&s=stars&type=Repositories&utf8=%E2%9C%93
 - CSV FlatFile : http://flat-file.net/ / http://flat-file.net/help/index.html 
