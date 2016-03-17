@@ -6,6 +6,7 @@
 * Understanding the GitHub Flow : https://guides.github.com/introduction/flow/
 
 #### Repositories desserving attention
+
 - Zotero: https://github.com/zotero/zotero
 - 
 
@@ -17,3 +18,6 @@
 - angular-formly:
   - http://docs.angular-formly.com/docs/learn-angular-formly
   - https://github.com/formly-js/angular-formly
+- angular-form-builder: 
+ - https://github.com/kelp404/angular-form-builder 
+ - http://kelp404.github.io/angular-form-builder/
