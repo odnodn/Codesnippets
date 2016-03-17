@@ -15,13 +15,13 @@
 - AngularFormGenerator : https://github.com/desertmark/AngularFormGenerator
 - aa-validation-from-server: https://github.com/IntertechInc/aa-validation-from-server
 - angular-bootstrap-webapi: https://github.com/dotnetcurry/angular-bootstrap-webapi
--  [ ] angular-formly: !!
+- angular-formly: !! :+1:
   - http://docs.angular-formly.com/docs/learn-angular-formly
   - https://github.com/formly-js/angular-formly
--  [ ] angular-form-builder: !!
+- angular-form-builder: !!
  - https://github.com/kelp404/angular-form-builder 
  - http://kelp404.github.io/angular-form-builder/
--  [ ] angular-schema-form !!
+- angular-schema-form !!
  - https://github.com/json-schema-form/angular-schema-form
  - http://schemaform.io/
 - angularjs-form-builder ??
