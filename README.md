@@ -4,7 +4,7 @@
 
 ##### Github
 * Understanding the GitHub Flow : https://guides.github.com/introduction/flow/
-* marcdown format : https://help.github.com/articles/basic-writing-and-formatting-syntax/
+* markdown format : https://help.github.com/articles/basic-writing-and-formatting-syntax/
 
 #### Repositories desserving attention
 
