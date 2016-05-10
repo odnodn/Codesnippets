@@ -1,5 +1,5 @@
 #generic unit of work and repositories:
-https://genericunitofworkandrepositories.codeplex.com/
+[codeplex](https://genericunitofworkandrepositories.codeplex.com/)
 
 #ASP.Net WebAPI OData 4
 tutorial http://www.asp.net/web-api/overview/odata-support-in-aspnet-web-api/odata-v4/create-an-odata-v4-endpoint
