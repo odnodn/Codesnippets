@@ -1,9 +1,9 @@
-generic unit of work and repositories:
+*generic unit of work and repositories:
 https://genericunitofworkandrepositories.codeplex.com/
 
-ASP.Net WebAPI OData 4
+*ASP.Net WebAPI OData 4
 tutorial http://www.asp.net/web-api/overview/odata-support-in-aspnet-web-api/odata-v4/create-an-odata-v4-endpoint
-https://damienbod.com/ !!!!!!!!!
+tutorials https://damienbod.com/ !!!!!!!!!
 Part1 https://damienbod.wordpress.com/2014/06/10/getting-started-with-web-api-and-odata-v4/
 Part2 https://damienbod.wordpress.com/2014/06/13/web-api-and-odata-v4-queries-functions-and-attribute-routing-part-2/
 Part3 https://damienbod.com/2014/06/16/web-api-and-odata-v4-crud-and-actions-part-3/
