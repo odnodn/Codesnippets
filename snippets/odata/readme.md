@@ -1,7 +1,7 @@
-*generic unit of work and repositories:
+#generic unit of work and repositories:
 https://genericunitofworkandrepositories.codeplex.com/
 
-*ASP.Net WebAPI OData 4
+#ASP.Net WebAPI OData 4
 tutorial http://www.asp.net/web-api/overview/odata-support-in-aspnet-web-api/odata-v4/create-an-odata-v4-endpoint
 tutorials https://damienbod.com/ !!!!!!!!!
 Part1 https://damienbod.wordpress.com/2014/06/10/getting-started-with-web-api-and-odata-v4/
@@ -17,15 +17,15 @@ Part10 https://damienbod.wordpress.com/2014/08/14/web-api-odata-v4-batching-part
 Part11 https://damienbod.wordpress.com/2014/09/12/web-api-odata-v4-keys-composite-keys-and-functions-part-11/
 code https://github.com/damienbod/WebAPIODataV4
 
-jaydata
+#jaydata
 home http://jaydata.org/
 apidoc http://jaydata.org/api/
 
-Olingo OData Client for JavaScript Library
+#Olingo OData Client for JavaScript Library
 download https://olingo.apache.org/doc/javascript/download.html
 doc https://olingo.apache.org/doc/javascript/index.html
 
-breeze
+#breeze
 odata 4 support request https://github.com/Breeze/breeze.js/issues/39
 stackoverflow http://stackoverflow.com/search?tab=newest&q=breeze
 breeze.js doc http://breeze.github.io/doc-js/
