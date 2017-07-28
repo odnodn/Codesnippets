@@ -43,10 +43,10 @@
 - github search: https://github.com/search?l=C%23&o=desc&q=graph&ref=searchresults&s=stars&type=Repositories&utf8=%E2%9C%93
 - ms graph layout: https://github.com/Microsoft/automatic-graph-layout
 
-**** sort
+##### sort
 - VS Code: https://github.com/Microsoft/vscode
 
-**** lint
+##### lint
 - http://csvlint.io/
 - http://csvlint.io/about
 - https://github.com/theodi/csvlint.rb
